@@ -10,3 +10,4 @@ dashboard 3 public link-https://public.tableau.com/views/Dashboard-03_1697548080
 story 1 public link-https://public.tableau.com/views/Story-01/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 story 2 public link-https://public.tableau.com/views/Story-02/Story2?:language=en-US&:display_count=n&:origin=viz_share_link
+vedio demo link - https://drive.google.com/file/d/1SG5ixjBTsnriu9f38oHgkyiaihnJ980H/view?usp=sharing
